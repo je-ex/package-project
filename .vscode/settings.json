@@ -13,7 +13,8 @@
         ".gitattributes": true,
         "node_modules": true,
         ".vscode": true,
-        "tsconfig.json": true
+        "tsconfig.json": true,
+        ".gitignore": true
     },
     "hide-files.files": [
         "tsup.config.ts",
@@ -23,6 +24,7 @@
         ".gitattributes",
         "node_modules",
         ".vscode",
-        "tsconfig.json"
+        "tsconfig.json",
+        ".gitignore"
     ]
 }
