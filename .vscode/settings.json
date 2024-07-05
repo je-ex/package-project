@@ -6,25 +6,27 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
-        "tsup.config.ts": true,
         "package-lock.json": true,
         "LICENSE": true,
         "jest.config.js": true,
         ".gitattributes": true,
         "node_modules": true,
         ".vscode": true,
-        "tsconfig.json": true,
-        ".gitignore": true
+        ".gitignore": true,
+        "pnpm-lock.yaml": true,
+        "tsup.config.ts": true,
+        "tsconfig.json": true
     },
     "hide-files.files": [
-        "tsup.config.ts",
         "package-lock.json",
         "LICENSE",
         "jest.config.js",
         ".gitattributes",
         "node_modules",
         ".vscode",
-        "tsconfig.json",
-        ".gitignore"
+        ".gitignore",
+        "pnpm-lock.yaml",
+        "tsup.config.ts",
+        "tsconfig.json"
     ]
 }

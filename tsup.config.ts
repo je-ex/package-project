@@ -19,7 +19,7 @@
 
     export default                      defineConfig
     ({
-        entry                           : ["src/code/main.ts"],
+        entry                           : ["src/main.ts"],
         format                          : ["cjs", "esm"],
         dts                             : true,
         splitting                       : false,

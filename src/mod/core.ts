@@ -1,6 +1,6 @@
 /**
- * @name                                    module.ts
- * @description                             Dummy module.
+ * @name                                    core.ts
+ * @description                             The core module.
 */
 
 

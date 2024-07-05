@@ -2,7 +2,7 @@
 	"name"				: "packTag",
 	"version"			: "0.0.1",
 	"description"		: "packDesc",
-	"keywords"			: [ "je-ex", "project", "packTag" ],
+	"keywords"			: [ "je-ex", "project", "packName" ],
 	"license"			: "MIT",
 
 	"main"				: "./dist/main.js",
@@ -20,7 +20,8 @@
 	"author"			:
 	{
 		"name"			: "authorName",
-		"email"			: "authorEmail"
+		"email"			: "authorEmail",
+		"url"			: "authorUrl"
 	},
 
 	"publishConfig"		:
